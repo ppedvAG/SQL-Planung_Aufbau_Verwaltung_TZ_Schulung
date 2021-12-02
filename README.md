@@ -5,6 +5,15 @@
 * Virtualisierung
 * Kontrolle best Instanzen
 
+# DB Design
+* DB Settings
+* Diagramm
+* Datetypen
+* Seiten Blöcke
+
+
+
+
 
 
 
