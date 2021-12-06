@@ -24,7 +24,7 @@ Profil
 					badmail
 					pickup (mails zu versenden)
 
-GAST hat Recht auf Profil bekommen
+GAST hat Recht auf Profil bekommen!
 
 
 
@@ -40,7 +40,7 @@ Grund:
 Dem Agent ein Profil zuweisen und Warnungssystem aktiveren--> Eigenschaften des Agent
 Restart des Agent!!
 
---> GAST hat Recht auf Profil bekommen
+--> GAST hat Recht auf öfftl Profil bekommen
 
 --Wer hat die Mails versendet..? der Agent
 --bei SQL 2014 oder früher hätte es ein Problem gegeben
@@ -48,7 +48,7 @@ Restart des Agent!!
 --> databaseMailUserRole
 
 
-Gastr wurde in msdb aktiviert (jeder der ein Login besitzt kotmmt zur msb rein)
+Gast wurde in msdb aktiviert (jeder der ein Login besitzt kotmmt zur msb rein)
 --Gast Mitglied in Databasemailuserrole ... schon klappts mit öfftl Profil)
 
 --Sond
