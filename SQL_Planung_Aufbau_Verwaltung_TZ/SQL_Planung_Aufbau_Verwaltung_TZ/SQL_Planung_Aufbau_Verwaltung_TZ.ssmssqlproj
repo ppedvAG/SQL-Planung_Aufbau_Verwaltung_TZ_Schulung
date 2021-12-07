@@ -97,6 +97,12 @@
           <AssociatedConnUserName>ar1</AssociatedConnUserName>
           <FullPath>11_Sicherugsplan einer DB.sql</FullPath>
         </FileNode>
+        <FileNode Name="12_Security.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KAIRO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>KAIRO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>12_Security.sql</FullPath>
+        </FileNode>
         <FileNode Name="x_VLF messen.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:KAIRO:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>KAIRO</AssociatedConnSrvName>
