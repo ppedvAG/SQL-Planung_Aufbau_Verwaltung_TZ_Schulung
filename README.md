@@ -9,10 +9,31 @@
 * DB Settings
 * Diagramm
 * Datetypen
-* Seiten Bl�cke
+* Seiten Blöcke
 
 # SystemDbs
 * Wartungsjob
+
+# Security
+* Login / USer
+* verwaiste User
+* Rechte in DB
+* Rollen (DB / Server)
+
+# Überachung
+* Audit
+
+# Monitoring
+* Profiler
+* Perfmon
+* DMVS
+* Datensammler
+
+# Indizes
+* CL und NON CL IX
+* Wartung Indizes
+* DTA
+
 
 
 
